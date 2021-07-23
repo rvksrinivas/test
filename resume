@@ -1,0 +1,285 @@
+
+Srinivas Rallapalli
+Phone: 612-840-9988
+
+Objective
+To obtain a responsible and challenging position within your company that will allow me to learn new technologies and skills while utilizing my previous experiences to improve beyond my abilities currently, and also to build a strong lasting relationship with the company and clients; and exceed expectations to excel within the company.
+
+Summary of Qualifications
+•	15+ years of experience at evaluate, analyze, design, develop and proposed web-based applications (internet/intranet). And last 8 years as Technology Manager/Project Lead working with Fortune companies like Wells Fargo, Citi Bank & Novartis.
+•	Good at gathering requirements and preparing system specification documents
+•	Strong understanding of OOP, OOAD, design patterns, Relational Database(Oracle, MSSQL Server, DB2)  and J2EE architecture with best practices for developing distributed applications
+•	Adapted to new Agile practices, Scrum, XP, TDD etc 
+•	Self Driven and Proactive team player in Small and Large size teams
+•	Experience in System, Regression, Integration, Performance, Functional and GUI Testing
+•	Experience in Data Warehouse(ETL) – OLTP/OLAP/DSS Systems for Business Intelligence
+•	Experience with Big Data platform, Hadoop, Hive, HBase, MapReduce, Zookeeper, YARN, Flume, Spark, Oozie…
+•	Excellent communication skills both verbal and written and good team player
+•	Adapt to new technologies like Enterprise Integration through TIBCO, Web Services, EAI, SOA and Open Source
+
+Experience
+
+Company: JPMC
+Software Engineer
+
+Projects: Record Of Supervisory Engagement, Trigger Tracker                                       2/17 – Current
+
+•	Adopted to TDD approach with training from Pivotal
+•	Created the JUnit test using MockIto and improved the test coverage
+•	Transformed development into Agile Feature team and two week sprints
+•	Created POC for SharedMailBox member list
+•	Created the design and POC for Outlook sync with application
+•	Executed the Oracle migration from 11g(PSI) to 12c(VSI)
+•	Create the approach and POC the instanceDB creation and refresh
+•	Created the data model and reviewed with data services team
+•	Created/configured the AIM deployment scripts
+•	Worked on design for the microservices decomposition for the application
+•	Created the producer/consumer for Kafka TOPIC for data ingestion into RCDR(datalake)
+•	Created the Java Spark for Data Ingestion into RCDR
+•	Created the Tableau dashboard for data published to RCDR
+•	Created the POC for the reconciliation of data record count using Alteryx
+•	Designed the AngularJS reusable components to be consistence all across the application
+•	Perform code review/test cases review
+•	Resolved production issues as needed based on the priority
+•	Resolved issues with Blackduck scan, vulnerability issue
+•	Leading the development/releases with development team
+•	Onboard to GIT repository, switched to IntelliJ, created documentation on confluence
+•	Create the JIRA dashboard and plug them to confluence for reports for releases
+•	Create change request, promote package deployments between environment SIT/UAT/PROD/COB
+•	Created quick POC of for user functionality for production owners
+
+Environment: Tomcat, Unix, Oracle Database, Spring Framework, myBatis, AngularJS, COGNOS, Tableau, Putty, Snagit, Hadoop, Spark, Hive, AIM, Jules,Jenkis, Junit, GIT, IntelliJ IDE, SourceTree, Altreryx
+
+
+Company: Citi Bank
+Software consultant
+
+Projects: Legacy Mainframe application to Distributed Web based applications (Financial Advisor Insurance & Annuities, Financial Advisor Registration and tracking, Trade violations)         7/13 – 2/17
+
+•	Developed JAVA application template framework for developing applications
+•	Create database design and create database, user, role and grants for all applications converting to distributed systems from legacy Mainframe
+•	Created UML diagrams using Visio
+•	Create scripts to load data file into Oracle table using sqlloader
+•	Create PL/SQL code for process validation and load data in normalized form.
+•	Create Database/grant/permission for development
+•	Created ETL transformation using Talend ETL tool for data synchronization between DB2/Oracle databases.
+•	Create technical design documents for the offshore COE team, including UML, class diagram, activity diagram & sequence diagrams
+•	Setup SFTP connectivity between systems
+•	Create responsive design prototype using Bootstrap 3
+•	Create SOAP based web services framework for faxing documents with Vendor API
+•	Created Java code to Consume RESTful services using Spring framework
+•	Hermes package deployment to WebSphere application server
+•	Create UNIX script framework to inbound/outbound feed processing
+•	Developed JAVA application framework to handle XML feed files to be extracted and loaded to OLTP database
+•	Production support 24x7 for all applications especially batch process running after business hours.
+•	Developed desktop applet for viewing different type of documents that are being uploaded from web as preview.
+•	Review application code, run fortify and analyze code
+•	Perform code review/test cases review
+•	Create change request, promote package deployments between environment SIT/UAT/PROD/COB
+•	Create JAD session with enterprise Architect on enterprise strategy wrt to infrastructure and projects
+•	Design applet viewer to upload and view any type of documents to Documentum
+•	Generate feed to Orchestria application and total conduct system
+•	Set up Hadoop platform (HDFS) for inbound feed for data analysis to run MapReduce programs.
+
+Environment: Oracle Web Servers, Websphere Application Server, Oracle Database, DB2 database, Rational Team Concert, Putty, Snagit, Hermes, JQuery, Git, GitHub, Bootstrap 3, SQL Developer, J2EE, Microsoft Excel, Microsoft Word, Microsoft Powerpoint, Paint brush, EclipseIDE, Datamodeler, Jenkins, SOAP UI, XML  , IBM DB2 Connect, Documentum, SVN repository, UNIX platform, JDBC 
+
+
+Software consultant
+Novartis, East Hanover, NJ                                                                                                       04/12 – 7/13
+Responsibilities:
+•	Converted old application to work with new browser by updating to HTML5 standards.
+•	Created the Java framework to build web application with standard template to server both browser and mobile platform using JQuery/Bootstrap with responsive design approach
+•	Created JSP form for user details submission to IRMA database supported by framework using Spring MVC framework.
+•	Work with external vendor for SEO best practices for GA (Google Analytical) report(301 redirect rules, alt tag, meta-tags etc....)
+•	Use Informatica ETL tool to build the transformation from different system to warehouse for reporting purpose.
+•	Use Hibernate for the database layer
+•	Created JMS/TIBCO bus for updating real time information across different systems.
+•	Created Junit testcase for the java code been developed
+•	Production support for ETL layer supporting Informatica/TIBCO/JMS
+•	Ran tool for web accessibility report to be 508 compliant for external facing website.
+•	Integrated of social media (Facebook, Twitter, Flicker, Youtube) to Brandsite using the proprietary code.
+•	Created the POC for moving existing application to Cloud using Amazon AWS and Salesforce
+•	Design and created POC for Big data structures to copy feed from different source to HDFS as daily feed and extracting vital information using MapReduce algorithms.
+
+Environment: Apache Web Servers, WebLogic Application Server, Oracle Database, Photoshop, Bugzero, Teamsite, Putty, Snagit, lotus notes, TOAD, J2EE, JSP, XML, EJB, JDBC, SQL Developer, Microsoft Excel, Microsoft Word, Microsoft Powerpoint, Paint brush, Ooyala, Spring, Struts, Hibernate, SOAP Web Services, Restful, SpringMVC, TOGAF, Salesforce, Amazon Cloud Computing EC2, ERwin, Informatica ETL, TIBCO, Eclipse, Hadoop, Pig, Hive, HBase, HCatalog, Zookeeper, Git, GitHub, Jenkins
+                                                                                     
+Sr Application Systems Engineer(Lead Developer)
+Wells Fargo, Minneapolis, MN					                                                  10/06 – 04/12
+Responsibilities:
+•	Analyze the business requirements and created the Functional Design Document and established coding standards.
+•	Mentor new resource to the speed with the rest of the team on Development and Production Support Effort.
+•	Created and review BRD (Business Requirement Document), Use case and creation of (FSD) Function Specification and Deployment Document.
+•	Well Versed with History database, Mainframe Warehouse process, Green Screens NAxx (CICS) on Mainframe for pacbase, DB2 database, NDM logs, JCL jobs etc.
+•	Worked with Oracle DBA to performance tune various SQL statement using Explain Plan utility.
+•	Worked and resolved with Sun and Oracle support on various Production issues.
+•	Does Production Support for Twelve Web Application, One Client Server, batch processing, infrastructure changes and DNS/DB re-point.
+•	Created the test plan for on going testing for various applications and coordinate with Operations on testing effort.
+•	Created the JDBC layer for the legacy applications
+•	Created the transaction management for the OLTP transaction for the application layer
+•	Developed Hibernate configuration and supporting class for database access layer
+•	Created the class diagram, sequence diagrams and state diagrams for implementation and documentation.
+•	Created and modified the batch scripts in Perl to handle exception and notifications
+•	Verify and Validate Extracted and Transformed data at various data load stages such as Dimension load, Staging and final Fact loads (ETL).
+•	Created the transformation and configuration for different channel of feed to push to DWS using Informatica
+•	Create EJB session bean for session management
+•	Developed PL/SQL scripts using Toad and PL/SQL Developer to create views, test results, validate dates and various transformation logic incorporated in mappings.
+•	Designed and implemented update strategy for Code. Developed source to target mapping documents. 
+•	Created WSDL, schema’s and build scripts for developing SOAP web services.
+•	Developed client class to invoke SOAP based web services as consumers
+•	Setup the intial enviromment for the project development, creating the VOB, creating the directory structure for the project in Myeclipse, coordinate with the DB2 DBA for database access.
+•	Created the build script to generate the artifacts, build and deploy.
+•	Created the Jasper template for report generation in PDF, Excel and HTML for online and batch processing.
+•	Ran Fortify tool for code analysis and fixed the recommendations on security, cross site scripting, xSQL etc.
+•	Created JUnit test cases for the developed code.
+Environment: Weblogic 8.2, 9.2, Oracle 9.x, IBM DB2, XMLBeans,  Castor, PLSQL/Developer, MyEclipse, ANT,  Web Services, SOAP, WSDL, JAX-RPC, JUnit, SQL, PL/SQL, Java, Perl, J2EE, JDBC, XML, XML Schema’s, Struts, Tiles, JSP,  JSF(Java Server Faces), Visio, Design Patterns, XML Spy, Unix, Putty, WinSCP3, OS/Extra – attachment, Netmeeting, Tomcat 5.x, 6.x, SQLTool, Informatica, Axis, log4j, Clearcase 6.x, Fortify 3.5 Security Analyzer, LDAP/Channel secure, Jasper reports, iText, Hibernate, Spring , TeaLeaf, Pac2000 Change Management, iPlanet SunOne Web Server, NetBean 5.5, 6.x, Infor
+
+Sr. J2EE Consultant                                                                                     
+MoneyGram, Minneapolis, MN				                                                        12/05 – 9/06
+Responsibilities:
+•	Involved in technical design for SOA Framework.
+•	Installed and configured RAD in local development Environment for quality and standard code rules.
+•	Create Eclipse Plug-in MGI Specific when generating Getter and Setter.
+•	Created Projects and directory structure and coordinated with admin to update CVS.
+•	Created Startup EJB for loading initial config properties.
+•	Created Persistence Layer, Exception, Data Access Component Layer, Business Object for SOA Framework.
+•	Create front-end web UI using JSF (Java Server Faces), and used Hibernate for OR-mapping persistence.
+•	Configure XA Datasource and tested successful to make client call from WebSphere 5.1 to WebSphere 6.1 with commit and rollback test cases for distributed transactions using JMS.
+•	Configured WebSphere build in JMS Queue, Connection Factory and Listener Port in 5.1 test Environments.
+•	Adopted Agile Development Practice and used XPlanner to track development effort.
+•	Created Test Harness using JUnit for developed code and changed to Test Driven Development approach.
+•	Created Stateless Session (EJB) as a wrapper for Remote calls and Message Driven Bean (MDB) to process queue messages.
+•	Performance tune the Oracle package/procedure for handling OLTP transactions
+•	Created Web Service using Document/Literal style using RAD to generate Service End Points using simple POJO and EJB Implementation.
+•	Created JSP, HTML, JavaScript, CSS and configured Struts, Tiles config file for Banking Application (Prototype).
+•	Created Packages, Procedures for all Data Access Components.
+•	Installed and Configured Cruise Control for Build Automation.
+•	Configured JDepend, PDM, EMMA  and JUnit to generate document in Ant build.
+•	Extensively used XMLBeans for data flow and generated Beans from XML Schema’s.
+•	Used Oxygen, XML Spy to create XML Schema’s and WSDL.
+•	Created Business Objects, Data Access Components, Factory Classes, Stored Procedures, WSDL, XML Schema’s Loaded Class, Cache Objects(Read Only) for Services.
+•	Created and Updated Documentation for Requirement, configuration and deployment.
+Environment: WebSphere 5.1, 6.x, Oracle, XMLBeans, WebSphere RAD, PLSQL/Developer, JDepend, PMD, CheckStyle, Eclipse, ANT,  EJB, JDBC, Web Services, JMS, SOAP, WSDL, JAX-RPC, JUnit, SQL, PL/SQL, Startup EJB’s,  XML, XML Schema’s, CVS, Cruise Control, Bugzilla, DBUnit, Struts, Tiles, JSP,  JSF(Java Server Faces), Visio, DOxygen, EMMA(Code Coverage tool), Design Patterns, XA Datasource, Universal Test Client from RAD, XML Spy, Oxygen, JMeter, Grinder.
+
+Client: BP Energy Trading, Inc., Houston, TX	                                                                                   
+TIBCO/J2EE Developer							                           4/05 – 12/05
+Responsibilities:
+•	Involved in coming up with a middleware design solution for distributed architecture.
+•	Created business processes in Business works for all business events.
+•	Defining, Managing and coordinating all business processes across applications using Tibco Business works. 
+•	Created adapter layers to all exchanges trade systems such as ICE, TrueQuote and NGX, EnEx, ChemConnect, Amerex. 
+•	Successfully design and implement Exchange Integration Application (EIA) I, II, and III. This system is a mapping engine that allows flexible schema changes between internal targets with any external exchanges. 
+•	Developed a flexible XML object parser to take in all schema types
+•	Test process using GreenHat testing tool
+•	Used Spring Framework, iBatis, Struts for frond-end web app for customer information
+Environment: WebLogic8.1, WebLogic Portal Server, IIS, Rational ClearCase, MS Share Point, Embarcadero  Rapid SQL, Castor, JDK1.4, J2EE, Ant (1.4,1.6), JSP, EJB (Session, Entity), Eclipse 2.1.2, Jbuilder X, iBatis,  Spring Framework, JMS, SQL Server 2000, Visio, TIBCO /IM 4.x /BusinessWorks 5.x, TIB/JMS, Rendezvous 6.X, TIB ADB Adapter, XML, Xpath, XSD, TIB/Hawk, TIB/Adapter, Admin, TIB/Adapter for Oracle, GreenHat testing tool.
+
+Client: Long Term Care Group, MN				                           
+Sr Programmer 							                                           2/04 – 4/05
+Responsibilities:
+•	Created classes Using J2EE patterns (Front Controller, Business Delegate, Session, Entity, Filters, Validator, Convertors and DBObjects.
+•	Created UML, Sequence diagrams, class using Together soft.
+•	Updated build.xml to build Application using Ant.
+•	Created and maintained Tracetable, SRS (Software Requirements Specification), ISR (Information System Request), Code Reviews and PDS(Programming Design Specifications).
+•	Created Crystal reports for reporting.
+•	Used DTS for updating datamarts.
+•	Created Session, Entity, Value Objects, Value Object Assemblers, DBObjects and used JTA in case of BMP.
+•	Created Stored Procedure to access data from other System.
+•	Created JSP page using Struts framework and JSTL.
+•	Making structural changes to databases when design changes are to be implemented. Also implemented those changes in DTS mappings. 
+•	Involved in Data modeling: normalization, demoralization, physical database design, relational models, star schemas, snow flake etc
+Environment: IIS, JRun 3.x,4.x, TraceRecord, JDK1.4, J2EE, Ant (1.4,1.6), JSP, JSLT, EJB (Session, Entity), XML, JDBC, SOAP, WSDL, UDDI, Eclipse 2.1.2, Design Patterns (Front Controller, Filters, Data Validation, Data Converter, Business Delegate, Session Facade, Value Objects, Value Object Assembler, DBO), JUnit, Struts, TogetherSoft 6, VSS, SQL Server 2000, Crystal Reports 8, VisiFlow(Scanner), Visio, Microsoft DTS Package.
+									                              
+Sr Developer
+Northwest Airlines, Minneapolis, MN                              				     11/03 – 1/04	 
+Responsibilities:
+•	Used Struts MVC framework for Handling JSP’s.
+•	Developing UNIX Shell scripts and SQL scripts to carry out routine checks, extensively used ETL to load data from Oracle database and Flat files to Oracle database. 
+•	Created Repository as a General Supervisor. Established user groups and users and assigned privileges. 
+•	Involved in creating metadata universe from BO repository, for checking system usage, report usage and user activity. 
+•	Created UNIX Scripts using Korn shell to display online information about status of application Servers.
+•	Enhancement of few modules using XSQL and XSL for building web pages using XSLT transformation.
+•	Worked with a team in research, problem resolution, design/manual lab testing, scripting, and documentation for a project architecting and engineering an enterprise wide Windows 2000 Active Directory.
+Environment: Apache, Jserve, Unix Sun 7.0, XSQL, Oracle 8.1, Toad, CSS, HTML, Struts, JSP, JLT( Tag lib ),Servlets, XSL, XSLT, XML, Texudo, C, SCCS Version Control, Web Services, WSDL, Clear Qwest, Visio, SMPT, FTP, HTTP, SOAP, HTTPS, SourceEdit, J2EE,JDBC, JSP, JavaScript.
+
+
+Project Leader/Sr Consultant			                          
+AMERICAN EXPRESS, Minneapolis, MN				                                         12/02 – 10/03
+Responsibilities:
+•	Responsible for a team of eight team member with two offshore team for new development effort and support.
+•	Developed framework following MVC guidelines for creating application using Struts framework, JSP, Servlets and Java Beans, Java’s Enterprise Bean (EJB) technology for middle layer implementation, which communicates to database Server for database operation using connection pooling with J2EE complaint
+•	Created Container Managed Session bean making JDBC call and returning result set in value object.
+•	Involved in design, development, deployment and testing of online trading system in a multi-tiered distributed architecture using messaging on WebSphere Application Server (Using Visual Age for Java, 
+WebSphere App Server)
+•	Configured Recon messages in MQ and read required properties using Java Messaging System
+•	Responsible for writing functional and technical designs for development projects, System documentation (Rational rose, Er Win)
+•	Developed a Utility class for reading Windows Registry Values
+•	Solve technical problems of moderate/high complexity for level 1 and level 2 support
+•	Generated reports using Jasper reports Utility package and logging through IBM Jlog4
+•	Interacted with  third party provider for Market Data feed on  daily, weekly and monthly, agreed on connecting to FTP Server for latest feed with a SLA agreement.
+•	Create a JCL script that extract file and clean data before sending to database.
+•	Integration existing application with Single Sign On
+•	Configured Siteminder, Netscape Web Server and WebSphere App Server to pass request from Web Server to App Server and Authenticate with Siteminder using LDAP Server for storing user information
+Environment: DB2, SQL Server, VAJ, IBM Visual Studio, Jasper, XML, MQ Series, SOAP, WSDL, UDDI, Web Services, IBML Scanner, Informatica, Captiva indexing, WebSphere, MS Visio, WebFocus, Unix Sun OS 5.6, JAVA, J2EE, Struts, JSP, Tag lib, HTML, Servlets, Lotus notes, JLog, C++, JNDI, LDAP(Sun iPlanet), DB2, Sybase, SQL Server, JMS, WASD.
+
+Application Developer
+NBC, NY                    						                                           1/02 – 11/02                                                        
+Responsibilities:
+•	Requirement gathering from business partners for functional specifications
+•	Developed an n-tier web application using Java, JSP, Servlets using XML as configuration system
+•	Configuration of Netscape Web Server, WebLogic application Server, Struts framework
+•	Used Ant for building test Environment
+•	Document plan, including initiation, analysis, design, construction, installation and maintenance phases 
+•	Performance tuning for existing applications
+•	Created and managed new portlets.
+•	Designed and developed catalogs for reports generation.
+•	Used JUnit for Unit testing, JProbe Profiler for Profile testing
+•	Design and developed HTML/JSP pages using Dream Weaver, Images using Photoshop
+•	Created Stored Procedures to archive daily feed and schedule using Unix Scritps and run using Mastero
+Environment: Unix, WebLogic Application Server/Portal Server, Oracle, EJB’s, J2EE, JAVA, JSP, Struts, Tag lib, HTML, CSS, Oracle, JUnit, JProbe, FrontPage, Rational Rose, Photoshop, Load Runner, LDAP, XML, Informatica.
+
+Sr. Developer/Module Leader				                                                               
+GE Power system, GA		                                                                                               12/1999 – 12/01  
+Responsibilities:			
+•	Concept Phase, Project Definition Phase, Analyze, Design, Build, Test, Rollout and Implementation, Ongoing
+•	Manage a team of five members for day-to-day operation and maintenance of Portal applications
+•	Worked on designing and developing core Java Classes, Controller/Adapter Session
+•	Mapping between table and Objects using TopLink tool
+•	Developed reading and writing dynamic XML docs using Java and SAX parsers.
+•	Build and Deploy applications in WebLogic App Server
+•	Used JLog for logging error, user info into a flat file using rotation
+•	Draw Usecase diagrams and Er diagrams
+•	Created Stateless Session bean for authenticating user credentials
+•	Developed front-end GUI with HTML, CSS (validations using JavaScript), Layers using Dream Weaver
+•	Write Stored Procedures and Unix Scripts to load daily data load
+•	Configuration of Netscape Web Server, Siteminder, WebLogic Application Server, WebLogic Portal
+•	Single Sign On implementation
+•	Developed Brivo Reports for Financial Planning & Accounting
+•	Rational ClearCase  for version controlling.
+Environment: MKS tool, Unix, Toad, Oracle, Toplink(O/R Mapping Tool), J2EE, JAVA, JSP, Tag lib, HTML, CSS, XML, EJB’s, WebLogic Portal Server, WebLogic App Server, Netscape Enterprise Server, Oblix, Siteminder, Visio, Rational Rose, Singleton Pattern, JNDI, Business Objects, Brivo.
+
+Developer/Analyst					       				                                
+Apollo Bank, Sweden                                                                                                                12/1996 – 10/1999
+Responsibilities:		
+•	Develop standard methodology
+•	Logical Data Modeling, Database Design
+•	Screen Design, Design of User Prototype, Site Design, Record Layout Design
+•	Data Flow Diagrams, Work Flow Diagrams. Entity Relationship diagrams, Visio
+•	Web Application architecture, Interface Design, Business Architecture
+•	Duties include providing technical support to customers and field engineers at customer sites running client/Server applications that operate on Windows and Unix
+•	Directed entire web architecture design and database setup, web maintenance and upgrade, internet marketing, email blasting.
+•	Registering and Deploying EJB’s in Netscape Application Server	
+Environment:  Netscape Application Server, JBuilder, VSS, JAVA, C++, JSP, EJBs’s, Servlets, Oracle (SQL/PLSQL), Rational Rose, Perl, Unix.
+ 
+Education
+OUCT Engineering College, India, AP, Hyderabad (Campus) - Bachelor of Science (Chemical)
+
+Training and Development
+•	Spring Framework Training (Three Days Course) (From Spring Interface21)
+•	Java Design Patterns and Advance Design Patterns (Five Days Course) (From Net Objectives) 
+•	Landmark Education Graduate (Forum and Advance) (Six Days Course)
+•	Oracle Database Administration (Three Days Course)
+•	Data Warehouse  Concepts and Tools (Five Days Course)
+•	ScrumMaster Certification (Two Days Course)
+
+Extra Curricular Activities & Hobbies
+•	Drawing, Painting, Reading, Volunteering, Charity, Driving Motorcycle, Cycling, Gym, Yoga, Mediation …..
